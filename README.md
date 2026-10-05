@@ -74,4 +74,11 @@ We explore and compare the performance of different ML algorithms including **Lo
 
 Feel free to **fork this repository**, raise **issues**, or submit **pull requests** to improve model accuracy, add new features, or experiment with other datasets and algorithms.
 
----
+
+## 👨‍💻 **Author**
+
+**Erfan Eslamieh**
+
+M.Sc. in Cognitive Science – Specializing in Generative AI, Machine Learning, and Deep Learning  
+📧 [erfan.cognitive.work@gmail.com]   
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-eslamieh) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/erfaneslamieh)
